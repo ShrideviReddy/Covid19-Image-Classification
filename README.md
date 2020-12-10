@@ -9,8 +9,11 @@ Using deep learning to classify X-ray images and find out whether its normal or 
 ## Sample results:
 <p float="left">
   <img src="/covid.PNG" width="100" />
-  <img src="/normal.PNG" width="100" /> 
 </p>
+<p float="left">
+  <img src="/pneu.PNG" width="100" />
+</p>
+
 
 
 
